@@ -1,1 +1,1 @@
-# ActivityPub-SDK
+# Activitypub - SDK
